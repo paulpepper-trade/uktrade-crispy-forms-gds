@@ -25,6 +25,10 @@ db.sqlite3
 /assets/fonts/
 /assets/images/
 /assets/javascripts/
+/assets/rebrand/
 /assets/stylesheets/
 /assets/manifest.json
 /assets/VERSION.txt
+
+# Ignore Playwright snapshots (default location)
+/tests/demo/snapshots/
