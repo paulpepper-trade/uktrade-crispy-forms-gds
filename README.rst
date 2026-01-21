@@ -285,8 +285,7 @@ Install all the dependencies:
 Next, copy and install the precompiled govuk-frontend files in the ``assets``
 directory in the project root:
 
-1. Download the pre-compiled files provided at bottom of each `GOV.UK Frontend
-release note`_.
+1. Download the pre-compiled files provided at bottom of each `GOV.UK Frontend release note`_.
 2. Unzip the zip file.
 3. Copy the files in ``assets/fonts`` to ``assets/fonts``.
 4. Copy the files in ``assets/images`` to ``assets/images``.
