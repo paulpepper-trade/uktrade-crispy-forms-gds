@@ -3,7 +3,7 @@ name: Tests
 # Test django-star-ratings on:
 #   all supported Django and Python versions
 
-on: 
+on:
   push:
   pull_request:
 
