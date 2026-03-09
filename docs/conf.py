@@ -35,7 +35,7 @@ author = "Stuart MacKay"
 # The short X.Y version.
 version = "0.3"
 # The full version, including alpha/beta/rc tags.
-release = "2.0.1"
+release = "2.0.2"
 
 # -- General configuration ---------------------------------------------------
 
