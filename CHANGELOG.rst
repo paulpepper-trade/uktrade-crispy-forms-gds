@@ -12,6 +12,13 @@ and by implication, [Semantic Versioning](http://semver.org/).
 Latest
 ------
 
+2.0.2 (2026-03-05)
+------------------
+* Extended testing to demonstrate support for Django 5.2 LTS
+* Extended testing to demonstrate support for crispyforms 2.4 and 2.5
+* Extended testing to demonstrate support for govuk-frontend 5.10.0, 5.12.0 and 5.14.0
+* Minor maintenance updates
+
 2.0.1 (2025-01-11)
 ------------------
 * Added setting for govuk frontend version to allow conditional HTML generation
